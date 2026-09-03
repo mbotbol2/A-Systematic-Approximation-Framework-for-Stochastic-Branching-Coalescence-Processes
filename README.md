@@ -1,0 +1,3 @@
+# A systematic approximation framework for stochastic branching-coalescence processes 
+
+Numerical code and figures accompanying "A systematic approximation framework for stochastic branching-coalescence processes" by Stéphane Munier and Maxim Botbol. This repository includes the generation of a handful of Montecarlo realisations as a first illustration to the toy model we consider as well as, verifying both the uniform and pointwise error of our analytic expressions to the leading order (LO), next-to-leading order (NLO) and next-to-next-to-leading order (NNLO) using the method of uniformisation. 
